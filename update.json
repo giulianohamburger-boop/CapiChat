@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download": "",
-  "notes": "Première version de CapiChat avec mises à jour automatiques."
+  "version": "1.0.2",
+  "download": "https://github.com/giulianohamburger-boop/CapiChat/releases/download/v1.0.2/CapiChat-update.zip",
+  "notes": "Ajout des comptes email + mot de passe, sessions privées et conversations séparées par utilisateur."
 }
